@@ -1,123 +1,193 @@
-<h1 align="center">Hi 👋, I'm Nandini Sharma</h1>
-<h3 align="center">Aspiring Full Stack Web Developer | MERN Stack Enthusiast | Passionate about Building Scalable Web Applications</h3>
+<!-- ===================== Banner ===================== -->
 
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=student-BPSMV&label=Profile%20views&color=0e75b6&style=flat" alt="student-BPSMV" />
+<p align="center">
+  <img src="./assets/banner.png" alt="Nandini Sharma Banner" width="100%" />
 </p>
 
+<!-- ===================== Introduction ===================== -->
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=student-BPSMV" alt="student-BPSMV" />
+<h1 align="center">Hi 👋, I'm Nandini Sharma</h1>
+
+<h3 align="center">
+Aspiring Full Stack Web Developer • MERN Stack Enthusiast • Passionate About Building Modern & Responsive Web Applications 🚀
+</h3>
+
+<p align="center">
+  <a href="https://github.com/student-BPSMV">
+    <img src="https://komarev.com/ghpvc/?username=student-BPSMV&label=Profile%20Views&color=16a34a&style=for-the-badge" alt="Profile Views"/>
   </a>
 </p>
 
+---
 
-- 🔭 I’m currently working on **Amazon Clone** — A responsive e-commerce application built with **React.js, React Router, JavaScript (ES6+), Tailwind CSS**, and modern frontend technologies. Currently implementing reusable components, routing, product pages, shopping cart functionality, and responsive UI. *(Repository coming soon 🚀)*
+## 👩‍💻 About Me
 
-- 🌱 I’m currently learning **Advanced JavaScript (ES6+) • React.js • Node.js • Express.js • MongoDB • Firebase • REST APIs • Tailwind CSS**
+- 🎓 Final Year Computer Science Engineering Student
+- 💻 Passionate about building clean, scalable and user-friendly web applications.
+- 🚀 Continuously learning modern web technologies and best development practices.
+- 🌱 Currently expanding my knowledge in Backend Development and Full Stack Architecture.
 
-- 👯 I’m looking to collaborate on **Open Source Projects • MERN Stack Applications • React.js Projects • JavaScript Libraries**
+---
 
-- 🤝 I’m looking for help with **Backend Architecture • Docker • CI/CD • Authentication • API Security • Cloud Deployment**
+## 🚀 Currently Building
 
+### 🛒 Amazon Clone
 
-- 👨‍💻 Explore all my projects on **[GitHub](https://github.com/student-BPSMV)**
+A responsive e-commerce application built with:
 
+- ⚛️ React.js
+- 🧭 React Router
+- 💛 JavaScript (ES6+)
+- 🎨 Tailwind CSS
 
-- 💬 Ask me about **HTML • CSS • JavaScript • React.js • Node.js • Express.js • MongoDB • Responsive Web Design • Git & GitHub**
+### Current Features
 
-- 📫 How to reach me **sharmanandini294@gmail.com**
+- ✅ Reusable Components
+- ✅ Responsive UI
+- ✅ Product Pages
+- ✅ Routing
 
+### Coming Soon
 
-- 📄 Know about my experiences **[View My Resume](https://github.com/student-BPSMV/student-BPSMV/blob/main/NANDINI%20SHARMA_RESUME_09-07-26.pdf)**
+- ⏳ Shopping Cart
+- ⏳ Authentication
+- ⏳ Backend Integration
 
-- ⚡ Fun fact **I enjoy turning coffee ☕ into clean code and love transforming ideas into interactive web experiences. Every project teaches me something new!**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🌱 Currently Learning
+
+- JavaScript (Advanced ES6+)
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Firebase
+- REST APIs
+- Tailwind CSS
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Open Source Projects
+- MERN Stack Applications
+- React.js Projects
+- JavaScript Libraries
+
+---
+
+## 💡 Looking to Learn More About
+
+- Backend Architecture
+- Authentication
+- Docker
+- CI/CD
+- API Security
+- Cloud Deployment
+
+---
+
+## 📂 Featured Links
+
+👨‍💻 **GitHub**
+
+https://github.com/student-BPSMV
+
+📄 **Resume**
+
+https://github.com/student-BPSMV/student-BPSMV/blob/main/NANDINI%20SHARMA_RESUME_09-07-26.pdf
+
+📫 **Email**
+
+**sharmanandini294@gmail.com**
+
+---
+
+## 💬 Ask Me About
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Responsive Web Design
+- Git & GitHub
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://linkedin.com/in/nandini-sharma-218379273" target="_blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="LinkedIn"
-height="30"
-width="40"/>
-</a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-
-<a href="https://angular.io" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+<a href="mailto:sharmanandini294@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+<a href="https://github.com/student-BPSMV">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
 </p>
 
+---
 
-<p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=student-BPSMV&show_icons=true&locale=en&layout=compact"
-alt="Top Languages"/>
+# 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,vscode,firebase" />
+
 </p>
 
+---
 
-<p>
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=student-BPSMV&show_icons=true&locale=en"
-alt="GitHub Stats"/>
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=student-BPSMV&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-BPSMV&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
+---
 
-<p>
-<img align="center"
-src="https://streak-stats.demolab.com?user=student-BPSMV"
-alt="GitHub Streak"/>
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=student-BPSMV&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=student-BPSMV&theme=github-compact"/>
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Become a MERN Stack Developer
+- ✅ Build Production-Ready Full Stack Applications
+- ✅ Contribute to Open Source
+- ✅ Learn Docker & CI/CD
+- ✅ Secure a Software Developer Role
+
+---
+
+<p align="center">
+
+> **"I enjoy transforming ideas into modern, responsive, and meaningful web applications while continuously learning new technologies."**
+
 </p>
