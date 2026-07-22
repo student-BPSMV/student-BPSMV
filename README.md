@@ -22,7 +22,7 @@ Aspiring Full Stack Web Developer • MERN Stack Enthusiast • Passionate About
 
 ## 👩‍💻 About Me
 
-- 🎓 Final Year Computer Science Engineering Student
+- 🎓 Graduated Computer Science Engineering Student
 - 💻 Passionate about building clean, scalable and user-friendly web applications.
 - 🚀 Continuously learning modern web technologies and best development practices.
 - 🌱 Currently expanding my knowledge in Backend Development and Full Stack Architecture.
